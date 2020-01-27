@@ -180,7 +180,7 @@ public class Robot extends TimedRobot {
 
   }
 
-  // Defines a method for updating color variables and printing the detected color to FRC Driver Station.
+  // Defines a method for updating color variables and displaying color variables on FRC Driver Station and FRC SmartDashboard.
   public void updateColors() {
 
     // Initializes the detected color.
